@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MoveInt
+comment1.params=from\ to\ before
+comment1.target=java.lang.String\ move(int,\ int,\ boolean)
+numComments=2
